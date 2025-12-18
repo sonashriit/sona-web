@@ -1,0 +1,30 @@
+<html>
+<html lang="en">
+<head>
+<title>Sona Tech Innovations</title>
+<style>
+body{
+font-family:'Roboto',sans-serif;
+margin:20px;
+}
+h1{
+colour:blue
+}
+img,video{
+width:300px;
+margin top :10px;
+}
+</style>
+</head>
+<body>
+<h1> My software company </h1>
+<p> We create software , website and mobile app for clients </p>
+<h2> Our company image</h2>
+<img src = "C:\Users\IT DS LAB\Desktop\software-companies.jpg"
+alt="company image">
+<h2> Our promo </h2>
+<video controls>
+<source src = "C:\Users\IT DS LAB\Desktop\software video it.mp4"
+type="video/mp4>
+</body>
+</html>
